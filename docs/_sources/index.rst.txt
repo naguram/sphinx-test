@@ -14,9 +14,4 @@ Welcome to Sphinx-test's documentation!
    ./chap2
    ./chap3
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
