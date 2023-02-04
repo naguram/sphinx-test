@@ -1,3 +1,3 @@
 # sphinx-test
 
-shohinxのドキュメント用
+sphinxのドキュメント用
