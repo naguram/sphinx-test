@@ -7,7 +7,7 @@ Welcome to Sphinx-test's documentation!
 =======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    ./chap1
