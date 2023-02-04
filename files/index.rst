@@ -1,17 +1,18 @@
-.. Sphinx-test documentation master file, created by
-   sphinx-quickstart on Sat Feb  4 16:05:57 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to Sphinx-test's documentation!
-=======================================
+##############################################
+2022-2023 OICI案件openvpnを用いたVPN構築手順書
+##############################################
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+******************
+ドキュメント作成者
+******************
+AW課　名倉昌志（m-nagura@ostechnology.cop.jp）
 
-   ./chap1
-   ./chap2
-   ./chap3
+********
+改訂履歴
+*******
+- 1.0:
+  - 作成日時: 2022-12-22
+  - 更新内容: 初版作成
 
 
